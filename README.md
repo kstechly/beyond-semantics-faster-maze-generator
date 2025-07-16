@@ -1,6 +1,6 @@
 # Beyond Semantics -- Faster Data Generation Utilities
 
-See [here](https://github.com/kstechly/beyond-semantics-maze-visualizer) for background. This is just a faster reimplementation of the data generation pipeline (though it does not replicate bit-for-bit the same datasets as in [the paper](https://arxiv.org/abs/2505.13775).
+See [here](https://github.com/kstechly/beyond-semantics-maze-visualizer) for background. This is just a faster reimplementation of the data generation pipeline (though it does not replicate bit-for-bit the same datasets as in [the paper](https://arxiv.org/abs/2505.13775)).
 
 Note that this implementation does not have a flag to distinguish between training and test data -- either split after generation or use two different seeds.
 
